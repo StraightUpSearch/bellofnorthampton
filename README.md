@@ -1,2 +1,0 @@
-# bellofnorthampton
-My awesome repository
